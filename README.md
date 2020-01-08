@@ -17,7 +17,7 @@ This repository defines a docker image to run projects for CS 7646 (machine lear
 2. at your terminal, run `sh run.sh`
 3. you will now be in the container in the /ml4t directory. 
 4. test your image.
-    - run `cd /optimize_something` then `python grade_optimization.py`
+    - run `cd optimize_something` then `python grade_optimization.py`
 
 ## WARNING
 The actual projects may not be shared and any images may not be published to dockerhub or any public repository without risking an honor code violation.

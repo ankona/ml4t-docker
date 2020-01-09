@@ -29,7 +29,7 @@ This repository defines a docker image to run projects for CS 7646 (machine lear
 - unzip -q ML4T_2020Spring.zip -d ML4T_2020Spring
 - unzip -q 20Spring_martingale.zip -d ML4T_2020Spring
 - sh build.sh
-- # edit run.sh now to have your path.
+- &#35; edit run.sh now to have your path.
 - sh run.sh
 
 ## WARNING
